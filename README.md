@@ -5,3 +5,4 @@ Activate the environment with either a shell of bash with: `source .venv/bin/act
 install the required packages in the chronos_tester.py file
 
 play around with your own datasets!
+- or copy and paste the links from here (https://github.com/Nixtla/transfer-learning-time-series/tree/main/datasets) or (https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython/tree/master/data) into the code
